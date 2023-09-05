@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
 1. Clone the repository to your local machine:
 2. 2. Open the project folder in your code editor.
 
-3. Open the `index.html` file in your web browser.
+3. Open the `crud.html` file in your web browser.
 
 ## Usage
 1. Open the application in your web browser.
