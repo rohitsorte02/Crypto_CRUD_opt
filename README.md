@@ -34,5 +34,5 @@ To run this application locally, follow these steps:
 5. Click the "Delete" button to remove a cryptocurrency from your portfolio.
 
 
-<img src="crud-opt.png">
+<img src="crud_opt.png">
 
