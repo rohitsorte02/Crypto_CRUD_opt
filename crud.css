@@ -124,3 +124,11 @@ footer {
   text-align: center;
   padding: 10px;
 }
+#name-tag{
+  position: absolute;
+  font-size: 13px;
+  left: 10px;
+  top: 80%;
+  opacity: 0.5;
+  margin-left: 35px;
+}
